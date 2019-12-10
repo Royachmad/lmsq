@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779002884116",
+    "firebase_url": "https://lmsq-ce800.firebaseio.com",
+    "project_id": "lmsq-ce800",
+    "storage_bucket": "lmsq-ce800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779002884116:android:a2c37351decd3078d2f701",
+        "android_client_info": {
+          "package_name": "com.example.lmsq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779002884116-48vp784fifh7kv344505blpfnktknlrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lmsq",
+            "certificate_hash": "0c5e550e03bf2c1e2c58e1cb40f79444a1799b08"
+          }
+        },
+        {
+          "client_id": "779002884116-t2fhp2amps0doq5kdt7hjquhvg0hl78m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1IBBQcwF6EiVvIHFWflljjyAPQa5H0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779002884116-t2fhp2amps0doq5kdt7hjquhvg0hl78m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
