@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TugasActivity extends AppCompatActivity {
-Button btnKembali;
+    Button btnKembali;
     MatakuliahModel mk;
     RecyclerView rv;
     List<MatakuliahModel> matakuliahlist = new ArrayList<>();
@@ -45,6 +45,18 @@ Button btnKembali;
         matakuliahlist.add(mk);
         //membuat object hero baru
         mk = new MatakuliahModel("Pengolahan Citra");
+        //menambahkan hero ke listSuperHero
+        matakuliahlist.add(mk);
+        //membuat object hero baru
+        mk = new MatakuliahModel("Bahasa Inggris");
+        //menambahkan hero ke listSuperHero
+        matakuliahlist.add(mk);
+        //membuat object hero baru
+        mk = new MatakuliahModel("Manajemen Proyek");
+        //menambahkan hero ke listSuperHero
+        matakuliahlist.add(mk);
+        //membuat object hero baru
+        mk = new MatakuliahModel("Kewirausahaan");
         //menambahkan hero ke listSuperHero
         matakuliahlist.add(mk);
         //membuat object hero baru

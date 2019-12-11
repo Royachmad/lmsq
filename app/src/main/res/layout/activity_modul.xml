@@ -40,8 +40,8 @@
                 />
         </LinearLayout>
 
-        <FrameLayout
-            android:id="@+id/frameFragmentPekerjaan"
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv1matakuliah"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             />
